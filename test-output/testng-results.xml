@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Actual and Expected user id matching TC is PASSED]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-06T13:28:49 IST" name="Default suite" finished-at="2022-08-06T13:29:23 IST" duration-ms="34235">
+    <groups>
+    </groups>
+    <test started-at="2022-08-06T13:28:49 IST" name="Default test" finished-at="2022-08-06T13:29:23 IST" duration-ms="34235">
+      <class name="kiteAppTestClasses.KiteUNTestUsingProperty">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:kiteAppTestClasses.KiteUNTestUsingProperty@3012646b]" started-at="2022-08-06T13:28:49 IST" name="LaunchBrowser" finished-at="2022-08-06T13:29:15 IST" duration-ms="25769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method is-config="true" signature="logintoKiteApp()[pri:0, instance:kiteAppTestClasses.KiteUNTestUsingProperty@3012646b]" started-at="2022-08-06T13:29:15 IST" name="logintoKiteApp" finished-at="2022-08-06T13:29:16 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoKiteApp -->
+        <test-method signature="ValidateUserName()[pri:0, instance:kiteAppTestClasses.KiteUNTestUsingProperty@3012646b]" started-at="2022-08-06T13:29:16 IST" name="ValidateUserName" finished-at="2022-08-06T13:29:19 IST" duration-ms="2632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual and Expected user id matching TC is PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserName -->
+        <test-method is-config="true" signature="LogOutFromKite()[pri:0, instance:kiteAppTestClasses.KiteUNTestUsingProperty@3012646b]" started-at="2022-08-06T13:29:19 IST" name="LogOutFromKite" finished-at="2022-08-06T13:29:21 IST" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutFromKite -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:kiteAppTestClasses.KiteUNTestUsingProperty@3012646b]" started-at="2022-08-06T13:29:21 IST" name="closeBrowser" finished-at="2022-08-06T13:29:23 IST" duration-ms="2345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- kiteAppTestClasses.KiteUNTestUsingProperty -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
