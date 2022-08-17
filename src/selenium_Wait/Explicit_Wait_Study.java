@@ -13,7 +13,7 @@ public class Explicit_Wait_Study {
 
 	public static void main(String[] args) {
 		
-		
+		//changes made by me
 		System.setProperty("webdriver.chrome.driver", "E:\\chromedriver\\chromedriver.exe")	;
 		
 		WebDriver driver = new ChromeDriver();
